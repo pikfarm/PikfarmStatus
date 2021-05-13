@@ -1,5 +1,5 @@
 # Change these first
-owner: Pikfarm # Your GitHub organization or username, where this repository lives
+owner: Cybertheory # Your GitHub organization or username, where this repository lives
 repo: PikfarmStatus # The name of this repository
 
 sites:
@@ -10,17 +10,18 @@ sites:
   - name: Newsletter
     url: https://news.pik.farm/sign-up
   - name: Blog
-    url: https://medium.com/pikfarm
+    url: https://blog.pik.farm
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.pik.farm
+  theme: dark
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Pikfarm Status Dashboard
-  introTitle: "Pikfarm is the first P2P produce first marketplace. This is our status page to monitor integration uptime."
-  introMessage: This is the Pikfarm Status Dashboard which uses **real-time** data from our [GitHub repository](https://github.com/cybertheory/PikfarmStatus). Powered by Upptime.
+  introTitle: "Pikfarm is the first P2P produce marketplace."
+  introMessage: This is the Pikfarm Status Dashboard which uses **real-time** data from our [GitHub repository](https://github.com/cybertheory/PikfarmStatus).
   navbar:
     - title: Status
       href: /
