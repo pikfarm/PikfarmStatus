@@ -18,7 +18,7 @@ status-website:
   cname: status.pik.farm
   theme: dark
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg
   name: Pikfarm Status Dashboard
   introTitle: "Pikfarm is the first P2P produce marketplace."
   introMessage: This is the Pikfarm Status Dashboard which uses **real-time** data from our [GitHub repository](https://github.com/cybertheory/PikfarmStatus).
