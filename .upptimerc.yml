@@ -11,7 +11,7 @@ sites:
     url: https://news.pik.farm/sign-up
   - name: Blog
     url: https://blog.pik.farm
-  - name: Stripe Endpoints
+  - name: Stripe Endpoint
     url: $STRIPEAPI
 
 status-website:
