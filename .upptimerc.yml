@@ -11,7 +11,6 @@ sites:
     url: https://news.pik.farm/sign-up
   - name: Blog
     url: https://medium.com/pikfarm
-  - name: 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -20,7 +19,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Pikfarm Status Dashboard
-  introTitle: Pikfarm is the first P2P produce first marketplace. This is our status page to monitor integration uptime.
+  introTitle: "Pikfarm is the first P2P produce first marketplace. This is our status page to monitor integration uptime."
   introMessage: This is the Pikfarm Status Dashboard which uses **real-time** data from our [GitHub repository](https://github.com/cybertheory/PikfarmStatus). Powered by Upptime.
   navbar:
     - title: Status
