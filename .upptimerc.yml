@@ -5,22 +5,28 @@ repo: PikfarmStatus # The name of this repository
 sites:
   - name: Pikfarm.com
     url: https://www.pikfarm.com
+    icon: https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg
   - name: Pik.farm
     url: https://pik.farm
+    icon: https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg
   - name: Newsletter
     url: https://news.pik.farm/sign-up
+    icon: https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg
   - name: Blog
     url: https://blog.pik.farm
+    icon: https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg
   - name: Stripe Endpoint
     url: $STRIPEAPI
+    icon: https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg
   - name: Documentation
     url: $DOCSURL
+    icon: https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.pik.farm
-  theme: ocean
+  theme: dark
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg
   name: Pikfarm Status Dashboard
