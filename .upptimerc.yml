@@ -9,20 +9,20 @@ sites:
   - name: www.pik.farm
     url: https://pik.farm
     icon: https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg
-  - name: Newsletter
+  - name: Newsletter URL
     url: https://news.pik.farm/sign-up
     icon: https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg
-  - name: Blog
+  - name: Blog URL
     url: https://blog.pik.farm
     icon: https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg
-  - name: Stripe Test Endpoint
+  - name: Stripe Test Endpoint URL
     url: $STRIPETESTAPI
     icon: https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg
-  - name: Stripe Endpoint
+  - name: Stripe Endpoint URL
     url: $STRIPEAPI
     icon: https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg
-  - name: Documentation
-    url: $DOCSURL
+  - name: Stripe Webhook URL (Test and Live)
+    url: $STRIPEWEBHOOK
     icon: https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg
 
 status-website:
