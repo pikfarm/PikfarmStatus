@@ -13,7 +13,7 @@ sites:
     url: https://news.pik.farm/sign-up
     icon: https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg
   - name: Blog URL
-    url: https://blog.pik.farm
+    url: http://blog.pik.farm
     icon: https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg
   - name: Stripe Test Endpoint URL
     url: $STRIPETESTAPI
