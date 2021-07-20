@@ -42,19 +42,19 @@
     "url": "https://news.pik.farm/sign-up",
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "newsletter-url",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 893,
-    "timeDay": 584,
-    "timeWeek": 779,
-    "timeMonth": 752,
-    "timeYear": 893,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 890,
+    "timeDay": 651,
+    "timeWeek": 772,
+    "timeMonth": 751,
+    "timeYear": 890,
     "dailyMinutesDown": {
-      "2021-07-20": 0
+      "2021-07-20": 20
     }
   },
   {
