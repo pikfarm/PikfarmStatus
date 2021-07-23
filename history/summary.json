@@ -63,9 +63,9 @@
     "url": "http://blog.pik.farm",
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "blog-url",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.46%",
     "uptimeYear": "99.11%",
@@ -75,6 +75,7 @@
     "timeMonth": 725,
     "timeYear": 881,
     "dailyMinutesDown": {
+      "2021-07-23": 0,
       "2021-07-11": 12,
       "2021-07-03": 663
     }
