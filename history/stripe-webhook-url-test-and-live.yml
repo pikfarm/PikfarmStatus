@@ -1,7 +1,7 @@
 url: $STRIPEWEBHOOK
 status: up
 code: 200
-responseTime: 338
-lastUpdated: 2021-09-05T23:11:51.217Z
+responseTime: 125
+lastUpdated: 2021-09-06T23:11:03.257Z
 startTime: Mon May 31 2021 17:20:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
