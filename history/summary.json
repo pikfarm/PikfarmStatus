@@ -58,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 919,
     "dailyMinutesDown": {
-      "2021-11-24": 1183,
+      "2021-11-24": 1196,
       "2021-11-23": 1440,
       "2021-11-22": 1440,
       "2021-11-21": 1440,
@@ -205,19 +205,19 @@
     "url": "$STRIPETESTAPI",
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "stripe-test-endpoint-url",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "96.15%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "95.29%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.97%",
     "time": 477,
-    "timeDay": 360,
-    "timeWeek": 503,
-    "timeMonth": 486,
+    "timeDay": 415,
+    "timeWeek": 505,
+    "timeMonth": 487,
     "timeYear": 477,
     "dailyMinutesDown": {
-      "2021-11-24": 55
+      "2021-11-24": 68
     }
   },
   {
