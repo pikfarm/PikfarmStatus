@@ -1,7 +1,7 @@
 url: http://blog.pik.farm
-status: up
-code: 200
-responseTime: 783
-lastUpdated: 2022-05-17T23:13:54.554Z
+status: down
+code: 500
+responseTime: 644
+lastUpdated: 2022-05-18T08:37:01.351Z
 startTime: Mon May 31 2021 17:20:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
