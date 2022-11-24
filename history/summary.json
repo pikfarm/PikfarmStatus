@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 382,
-    "timeDay": 410,
-    "timeWeek": 246,
-    "timeMonth": 340,
-    "timeYear": 411,
+    "time": 380,
+    "timeDay": 148,
+    "timeWeek": 231,
+    "timeMonth": 333,
+    "timeYear": 410,
     "dailyMinutesDown": {
       "2022-09-27": 34,
       "2022-03-28": 17
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 669,
-    "timeDay": 738,
-    "timeWeek": 648,
-    "timeMonth": 634,
-    "timeYear": 680,
+    "time": 668,
+    "timeDay": 336,
+    "timeWeek": 571,
+    "timeMonth": 626,
+    "timeYear": 678,
     "dailyMinutesDown": {
       "2022-09-27": 34,
       "2022-09-24": 39,
@@ -52,18 +52,19 @@
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "newsletter-url",
     "status": "down",
-    "uptime": "11.40%",
+    "uptime": "11.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 975,
+    "time": 997,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-23": 34,
+      "2022-11-24": 40,
+      "2022-11-23": 1440,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
       "2022-11-20": 1440,
@@ -426,8 +427,7 @@
       "2021-11-28": 1440,
       "2021-11-27": 1440,
       "2021-11-26": 1440,
-      "2021-11-25": 1440,
-      "2021-11-24": 1440
+      "2021-11-25": 1440
     }
   },
   {
@@ -436,16 +436,16 @@
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "blog-url",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
-    "time": 953,
-    "timeDay": 1911,
-    "timeWeek": 914,
-    "timeMonth": 860,
-    "timeYear": 985,
+    "time": 952,
+    "timeDay": 1042,
+    "timeWeek": 944,
+    "timeMonth": 868,
+    "timeYear": 982,
     "dailyMinutesDown": {
       "2022-08-24": 65,
       "2022-08-23": 34,
@@ -472,14 +472,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 535,
-    "timeDay": 679,
-    "timeWeek": 1090,
-    "timeMonth": 643,
+    "time": 536,
+    "timeDay": 657,
+    "timeWeek": 1087,
+    "timeMonth": 645,
     "timeYear": 552,
-    "dailyMinutesDown": {
-      "2021-11-24": 68
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Stripe Endpoint URL",
@@ -493,13 +491,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 314,
-    "timeDay": 430,
-    "timeWeek": 436,
-    "timeMonth": 369,
-    "timeYear": 325,
-    "dailyMinutesDown": {
-      "2021-11-24": 55
-    }
+    "timeDay": 153,
+    "timeWeek": 305,
+    "timeMonth": 355,
+    "timeYear": 324,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Stripe Webhook URL (Test and Live)",
@@ -512,13 +508,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 324,
-    "timeDay": 382,
-    "timeWeek": 356,
-    "timeMonth": 510,
+    "time": 323,
+    "timeDay": 144,
+    "timeWeek": 342,
+    "timeMonth": 503,
     "timeYear": 339,
-    "dailyMinutesDown": {
-      "2021-11-24": 55
-    }
+    "dailyMinutesDown": {}
   }
 ]
