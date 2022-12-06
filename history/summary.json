@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 380,
-    "timeDay": 193,
-    "timeWeek": 214,
-    "timeMonth": 248,
+    "timeDay": 397,
+    "timeWeek": 238,
+    "timeMonth": 249,
     "timeYear": 411,
     "dailyMinutesDown": {
       "2022-09-27": 34,
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 672,
-    "timeDay": 776,
-    "timeWeek": 663,
-    "timeMonth": 611,
-    "timeYear": 681,
+    "time": 673,
+    "timeDay": 743,
+    "timeWeek": 674,
+    "timeMonth": 615,
+    "timeYear": 682,
     "dailyMinutesDown": {
       "2022-09-27": 34,
       "2022-09-24": 39,
@@ -56,13 +56,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 898,
+    "time": 885,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-05": 1243,
+      "2022-12-06": 32,
+      "2022-12-05": 1440,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
       "2022-12-02": 1440,
@@ -425,8 +426,7 @@
       "2021-12-10": 1440,
       "2021-12-09": 1440,
       "2021-12-08": 1440,
-      "2021-12-07": 1440,
-      "2021-12-06": 1440
+      "2021-12-07": 1440
     }
   },
   {
@@ -441,9 +441,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
     "time": 947,
-    "timeDay": 906,
-    "timeWeek": 842,
-    "timeMonth": 857,
+    "timeDay": 791,
+    "timeWeek": 824,
+    "timeMonth": 863,
     "timeYear": 976,
     "dailyMinutesDown": {
       "2022-08-24": 65,
@@ -467,18 +467,16 @@
     "slug": "stripe-test-endpoint-url",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 546,
-    "timeDay": 440,
-    "timeWeek": 567,
-    "timeMonth": 787,
+    "timeDay": 530,
+    "timeWeek": 573,
+    "timeMonth": 789,
     "timeYear": 564,
-    "dailyMinutesDown": {
-      "2022-12-05": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Stripe Endpoint URL",
@@ -487,18 +485,16 @@
     "slug": "stripe-endpoint-url",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 317,
-    "timeDay": 247,
-    "timeWeek": 276,
-    "timeMonth": 376,
-    "timeYear": 325,
-    "dailyMinutesDown": {
-      "2022-12-05": 12
-    }
+    "time": 318,
+    "timeDay": 381,
+    "timeWeek": 287,
+    "timeMonth": 382,
+    "timeYear": 326,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Stripe Webhook URL (Test and Live)",
@@ -507,17 +503,15 @@
     "slug": "stripe-webhook-url-test-and-live",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 327,
-    "timeDay": 315,
-    "timeWeek": 346,
-    "timeMonth": 504,
+    "time": 328,
+    "timeDay": 407,
+    "timeWeek": 345,
+    "timeMonth": 508,
     "timeYear": 342,
-    "dailyMinutesDown": {
-      "2022-12-05": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
