@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 403,
-    "timeDay": 384,
-    "timeWeek": 292,
-    "timeMonth": 576,
+    "timeDay": 249,
+    "timeWeek": 272,
+    "timeMonth": 577,
     "timeYear": 435,
     "dailyMinutesDown": {
       "2022-12-07": 23,
@@ -32,10 +32,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.94%",
-    "time": 692,
-    "timeDay": 853,
-    "timeWeek": 632,
-    "timeMonth": 833,
+    "time": 693,
+    "timeDay": 707,
+    "timeWeek": 628,
+    "timeMonth": 840,
     "timeYear": 698,
     "dailyMinutesDown": {
       "2022-12-07": 22,
@@ -53,7 +53,7 @@
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "newsletter-url",
     "status": "down",
-    "uptime": "10.92%",
+    "uptime": "10.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -64,7 +64,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-17": 31,
+      "2022-12-18": 32,
+      "2022-12-17": 1440,
       "2022-12-16": 1440,
       "2022-12-15": 1440,
       "2022-12-14": 1440,
@@ -427,8 +428,7 @@
       "2021-12-22": 1440,
       "2021-12-21": 1440,
       "2021-12-20": 1440,
-      "2021-12-19": 1440,
-      "2021-12-18": 1440
+      "2021-12-19": 1440
     }
   },
   {
@@ -442,11 +442,11 @@
     "uptimeWeek": "99.31%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.55%",
-    "time": 941,
-    "timeDay": 1623,
-    "timeWeek": 754,
-    "timeMonth": 818,
-    "timeYear": 972,
+    "time": 940,
+    "timeDay": 822,
+    "timeWeek": 757,
+    "timeMonth": 819,
+    "timeYear": 970,
     "dailyMinutesDown": {
       "2022-12-13": 37,
       "2022-12-12": 33,
@@ -475,10 +475,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 549,
-    "timeDay": 598,
-    "timeWeek": 588,
-    "timeMonth": 816,
+    "time": 548,
+    "timeDay": 488,
+    "timeWeek": 604,
+    "timeMonth": 823,
     "timeYear": 566,
     "dailyMinutesDown": {}
   },
@@ -494,10 +494,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 328,
-    "timeWeek": 427,
-    "timeMonth": 382,
-    "timeYear": 330,
+    "timeDay": 454,
+    "timeWeek": 440,
+    "timeMonth": 388,
+    "timeYear": 331,
     "dailyMinutesDown": {}
   },
   {
@@ -512,10 +512,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 331,
-    "timeDay": 596,
-    "timeWeek": 393,
-    "timeMonth": 381,
-    "timeYear": 346,
+    "timeDay": 402,
+    "timeWeek": 386,
+    "timeMonth": 383,
+    "timeYear": 347,
     "dailyMinutesDown": {}
   }
 ]
