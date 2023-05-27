@@ -52,7 +52,7 @@
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "newsletter-url",
     "status": "down",
-    "uptime": "8.50%",
+    "uptime": "8.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -63,7 +63,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-26": 1432,
+      "2023-05-27": 34,
+      "2023-05-26": 1440,
       "2023-05-25": 1440,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
@@ -426,8 +427,7 @@
       "2022-05-31": 1440,
       "2022-05-30": 1440,
       "2022-05-29": 1440,
-      "2022-05-28": 1440,
-      "2022-05-27": 1440
+      "2022-05-28": 1440
     }
   },
   {
@@ -437,17 +437,17 @@
     "slug": "blog-url",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "75.88%",
-    "uptimeWeek": "94.37%",
-    "uptimeMonth": "95.84%",
-    "uptimeYear": "99.49%",
+    "uptimeDay": "79.41%",
+    "uptimeWeek": "94.49%",
+    "uptimeMonth": "95.86%",
+    "uptimeYear": "99.50%",
     "time": 933,
-    "timeDay": 1156,
+    "timeDay": 1185,
     "timeWeek": 902,
     "timeMonth": 1050,
     "timeYear": 922,
     "dailyMinutesDown": {
-      "2023-05-26": 342,
+      "2023-05-26": 330,
       "2023-05-25": 125,
       "2023-05-24": 100,
       "2023-05-17": 55,
