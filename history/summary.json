@@ -63,7 +63,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-06": 919,
+      "2023-06-06": 931,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
       "2023-06-03": 1440,
@@ -435,16 +435,16 @@
     "url": "http://blog.pik.farm",
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "blog-url",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "97.07%",
+    "uptimeDay": "97.05%",
     "uptimeWeek": "95.69%",
     "uptimeMonth": "95.08%",
     "uptimeYear": "99.44%",
     "time": 943,
-    "timeDay": 444,
-    "timeWeek": 779,
-    "timeMonth": 1047,
+    "timeDay": 433,
+    "timeWeek": 774,
+    "timeMonth": 1045,
     "timeYear": 935,
     "dailyMinutesDown": {
       "2023-06-06": 42,
@@ -475,8 +475,7 @@
       "2023-05-02": 124,
       "2023-05-01": 73,
       "2023-04-28": 170,
-      "2023-04-27": 105,
-      "2023-04-26": 19
+      "2023-04-27": 105
     }
   },
   {
