@@ -4,10 +4,10 @@
     "url": "https://www.pikfarm.com",
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "www-pikfarm-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 470,
@@ -16,6 +16,7 @@
     "timeMonth": 1223,
     "timeYear": 490,
     "dailyMinutesDown": {
+      "2023-06-14": 1,
       "2022-12-07": 23,
       "2022-09-27": 34
     }
@@ -25,9 +26,9 @@
     "url": "https://pik.farm",
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "www-pik-farm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -37,6 +38,7 @@
     "timeMonth": 1505,
     "timeYear": 796,
     "dailyMinutesDown": {
+      "2023-06-14": 0,
       "2023-03-16": 28,
       "2023-03-15": 17,
       "2023-03-10": 25,
@@ -63,7 +65,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-14": 1224,
+      "2023-06-14": 1291,
       "2023-06-13": 1440,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
@@ -437,17 +439,17 @@
     "slug": "blog-url",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "95.49%",
-    "uptimeWeek": "95.19%",
-    "uptimeMonth": "94.76%",
-    "uptimeYear": "99.47%",
+    "uptimeDay": "96.48%",
+    "uptimeWeek": "95.33%",
+    "uptimeMonth": "94.79%",
+    "uptimeYear": "99.46%",
     "time": 916,
     "timeDay": 544,
     "timeWeek": 635,
     "timeMonth": 930,
     "timeYear": 901,
     "dailyMinutesDown": {
-      "2023-06-14": 65,
+      "2023-06-14": 51,
       "2023-06-13": 103,
       "2023-06-12": 17,
       "2023-06-11": 74,
@@ -477,7 +479,8 @@
       "2023-05-09": 156,
       "2023-05-08": 161,
       "2023-05-06": 108,
-      "2023-05-05": 4
+      "2023-05-05": 4,
+      "2023-05-04": 40
     }
   },
   {
