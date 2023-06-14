@@ -6,9 +6,9 @@
     "slug": "www-pikfarm-com",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 470,
     "timeDay": 8221,
@@ -16,7 +16,6 @@
     "timeMonth": 1223,
     "timeYear": 490,
     "dailyMinutesDown": {
-      "2023-06-14": 12,
       "2022-12-07": 23,
       "2022-09-27": 34
     }
@@ -28,9 +27,9 @@
     "slug": "www-pik-farm",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 771,
     "timeDay": 8019,
@@ -38,7 +37,6 @@
     "timeMonth": 1505,
     "timeYear": 796,
     "dailyMinutesDown": {
-      "2023-06-14": 11,
       "2023-03-16": 28,
       "2023-03-15": 17,
       "2023-03-10": 25,
@@ -54,7 +52,7 @@
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "newsletter-url",
     "status": "down",
-    "uptime": "8.29%",
+    "uptime": "8.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -65,7 +63,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-14": 521,
+      "2023-06-14": 605,
       "2023-06-13": 1440,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
@@ -437,16 +435,16 @@
     "url": "http://blog.pik.farm",
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "blog-url",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "95.16%",
+    "uptimeDay": "96.48%",
     "uptimeWeek": "95.36%",
     "uptimeMonth": "94.87%",
     "uptimeYear": "99.47%",
     "time": 917,
-    "timeDay": 1137,
-    "timeWeek": 649,
-    "timeMonth": 939,
+    "timeDay": 1171,
+    "timeWeek": 646,
+    "timeMonth": 938,
     "timeYear": 904,
     "dailyMinutesDown": {
       "2023-06-14": 17,
@@ -480,7 +478,7 @@
       "2023-05-08": 161,
       "2023-05-06": 108,
       "2023-05-05": 4,
-      "2023-05-04": 57
+      "2023-05-04": 40
     }
   },
   {
