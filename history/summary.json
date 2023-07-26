@@ -25,10 +25,10 @@
     "url": "https://pik.farm",
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "www-pik-farm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 770,
@@ -37,6 +37,7 @@
     "timeMonth": 597,
     "timeYear": 802,
     "dailyMinutesDown": {
+      "2023-07-26": 2,
       "2023-03-16": 28,
       "2023-03-15": 17,
       "2023-03-10": 25,
@@ -52,7 +53,7 @@
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "newsletter-url",
     "status": "down",
-    "uptime": "7.85%",
+    "uptime": "7.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -63,7 +64,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-26": 36,
+      "2023-07-26": 710,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
@@ -435,18 +436,19 @@
     "url": "http://blog.pik.farm",
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "blog-url",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.46%",
-    "time": 926,
+    "time": 925,
     "timeDay": 672,
     "timeWeek": 1988,
     "timeMonth": 1275,
     "timeYear": 904,
     "dailyMinutesDown": {
+      "2023-07-26": 1,
       "2023-07-07": 16,
       "2023-06-15": 186,
       "2023-06-14": 51,
@@ -477,7 +479,7 @@
       "2023-05-11": 40,
       "2023-05-10": 16,
       "2023-05-09": 156,
-      "2023-05-08": 130
+      "2023-05-08": 113
     }
   },
   {
@@ -485,9 +487,9 @@
     "url": "$STRIPETESTAPI",
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "stripe-test-endpoint-url",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -496,7 +498,9 @@
     "timeWeek": 512,
     "timeMonth": 598,
     "timeYear": 590,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   },
   {
     "name": "Stripe Endpoint URL",
