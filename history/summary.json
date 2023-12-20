@@ -4,19 +4,19 @@
     "url": "https://www.pikfarm.com",
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "www-pikfarm-com",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "65.13%",
-    "uptimeWeek": "95.02%",
-    "uptimeMonth": "98.85%",
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "64.41%",
+    "uptimeWeek": "94.92%",
+    "uptimeMonth": "98.83%",
     "uptimeYear": "99.90%",
-    "time": 403,
-    "timeDay": 285,
-    "timeWeek": 238,
-    "timeMonth": 214,
+    "time": 402,
+    "timeDay": 271,
+    "timeWeek": 233,
+    "timeMonth": 213,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2023-12-20": 503
+      "2023-12-20": 514
     }
   },
   {
@@ -26,17 +26,17 @@
     "slug": "www-pik-farm",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "69.53%",
-    "uptimeWeek": "95.65%",
-    "uptimeMonth": "99.00%",
-    "uptimeYear": "99.90%",
+    "uptimeDay": "70.33%",
+    "uptimeWeek": "95.76%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "99.91%",
     "time": 741,
     "timeDay": 378,
     "timeWeek": 443,
     "timeMonth": 493,
     "timeYear": 702,
     "dailyMinutesDown": {
-      "2023-12-20": 437,
+      "2023-12-20": 425,
       "2023-03-16": 28,
       "2023-03-15": 17,
       "2023-03-10": 25
@@ -47,19 +47,19 @@
     "url": "https://news.pik.farm/sign-up",
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "newsletter-url",
-    "status": "down",
+    "status": "up",
     "uptime": "6.64%",
-    "uptimeDay": "36.02%",
-    "uptimeWeek": "5.15%",
-    "uptimeMonth": "2.56%",
+    "uptimeDay": "36.10%",
+    "uptimeWeek": "5.16%",
+    "uptimeMonth": "2.57%",
     "uptimeYear": "0.10%",
-    "time": 338,
-    "timeDay": 338,
-    "timeWeek": 338,
-    "timeMonth": 338,
-    "timeYear": 338,
+    "time": 361,
+    "timeDay": 361,
+    "timeWeek": 361,
+    "timeMonth": 361,
+    "timeYear": 361,
     "dailyMinutesDown": {
-      "2023-12-20": 363,
+      "2023-12-20": 373,
       "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
@@ -431,19 +431,19 @@
     "url": "http://blog.pik.farm",
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "blog-url",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "89.50%",
-    "uptimeWeek": "98.50%",
+    "uptimeDay": "89.45%",
+    "uptimeWeek": "98.49%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.48%",
-    "time": 1124,
+    "time": 1125,
     "timeDay": 279,
     "timeWeek": 520,
     "timeMonth": 1590,
     "timeYear": 1153,
     "dailyMinutesDown": {
-      "2023-12-20": 150,
+      "2023-12-20": 151,
       "2023-10-05": 20,
       "2023-09-20": 18,
       "2023-09-19": 22,
@@ -474,7 +474,7 @@
       "2023-05-26": 330,
       "2023-05-25": 125,
       "2023-05-24": 100,
-      "2023-05-17": 35
+      "2023-05-17": 16
     }
   },
   {
@@ -484,9 +484,9 @@
     "slug": "stripe-test-endpoint-url",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "82.21%",
-    "uptimeWeek": "97.46%",
-    "uptimeMonth": "99.42%",
+    "uptimeDay": "83.01%",
+    "uptimeWeek": "97.57%",
+    "uptimeMonth": "99.44%",
     "uptimeYear": "99.95%",
     "time": 568,
     "timeDay": 358,
@@ -494,7 +494,7 @@
     "timeMonth": 452,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2023-12-20": 257
+      "2023-12-20": 245
     }
   },
   {
@@ -524,9 +524,9 @@
     "slug": "stripe-webhook-url-test-and-live",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "82.96%",
-    "uptimeWeek": "97.57%",
-    "uptimeMonth": "99.44%",
+    "uptimeDay": "82.16%",
+    "uptimeWeek": "97.45%",
+    "uptimeMonth": "99.41%",
     "uptimeYear": "99.95%",
     "time": 334,
     "timeDay": 226,
@@ -534,7 +534,7 @@
     "timeMonth": 243,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2023-12-20": 244
+      "2023-12-20": 256
     }
   }
 ]
