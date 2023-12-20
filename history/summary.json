@@ -26,9 +26,9 @@
     "slug": "www-pik-farm",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "84.13%",
-    "uptimeWeek": "97.73%",
-    "uptimeMonth": "99.48%",
+    "uptimeDay": "83.27%",
+    "uptimeWeek": "97.61%",
+    "uptimeMonth": "99.45%",
     "uptimeYear": "99.94%",
     "time": 743,
     "timeDay": 428,
@@ -36,7 +36,7 @@
     "timeMonth": 522,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2023-12-20": 227,
+      "2023-12-20": 240,
       "2023-03-16": 28,
       "2023-03-15": 17,
       "2023-03-10": 25
@@ -59,7 +59,7 @@
     "timeMonth": 359,
     "timeYear": 359,
     "dailyMinutesDown": {
-      "2023-12-20": 296,
+      "2023-12-20": 308,
       "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
@@ -485,9 +485,9 @@
     "slug": "stripe-test-endpoint-url",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "88.66%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "87.80%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "99.97%",
     "time": 573,
     "timeDay": 342,
@@ -495,7 +495,7 @@
     "timeMonth": 465,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2023-12-20": 164
+      "2023-12-20": 176
     }
   },
   {
@@ -523,11 +523,11 @@
     "url": "$STRIPEWEBHOOK",
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "stripe-webhook-url-test-and-live",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "91.12%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "99.71%",
+    "uptimeDay": "91.83%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
     "time": 338,
     "timeDay": 285,
@@ -535,7 +535,7 @@
     "timeMonth": 259,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2023-12-20": 128
+      "2023-12-20": 117
     }
   }
 ]
