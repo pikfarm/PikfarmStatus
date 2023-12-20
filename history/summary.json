@@ -4,19 +4,19 @@
     "url": "https://www.pikfarm.com",
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "www-pikfarm-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "71.74%",
-    "uptimeWeek": "95.96%",
-    "uptimeMonth": "99.07%",
+    "uptimeDay": "70.64%",
+    "uptimeWeek": "95.81%",
+    "uptimeMonth": "99.03%",
     "uptimeYear": "99.92%",
-    "time": 405,
-    "timeDay": 281,
-    "timeWeek": 233,
-    "timeMonth": 212,
+    "time": 403,
+    "timeDay": 285,
+    "timeWeek": 238,
+    "timeMonth": 214,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2023-12-20": 408
+      "2023-12-20": 424
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "www-pik-farm",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "73.51%",
-    "uptimeWeek": "96.22%",
-    "uptimeMonth": "99.13%",
+    "uptimeDay": "72.30%",
+    "uptimeWeek": "96.04%",
+    "uptimeMonth": "99.09%",
     "uptimeYear": "99.91%",
     "time": 743,
     "timeDay": 420,
@@ -36,7 +36,7 @@
     "timeMonth": 516,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2023-12-20": 380,
+      "2023-12-20": 398,
       "2023-03-16": 28,
       "2023-03-15": 17,
       "2023-03-10": 25
@@ -49,9 +49,9 @@
     "slug": "newsletter-url",
     "status": "up",
     "uptime": "6.64%",
-    "uptimeDay": "28.59%",
-    "uptimeWeek": "4.08%",
-    "uptimeMonth": "2.32%",
+    "uptimeDay": "29.80%",
+    "uptimeWeek": "4.26%",
+    "uptimeMonth": "2.36%",
     "uptimeYear": "0.08%",
     "time": 340,
     "timeDay": 340,
@@ -484,9 +484,9 @@
     "slug": "stripe-test-endpoint-url",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "86.57%",
-    "uptimeWeek": "98.08%",
-    "uptimeMonth": "99.56%",
+    "uptimeDay": "85.37%",
+    "uptimeWeek": "97.91%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "99.96%",
     "time": 570,
     "timeDay": 334,
@@ -494,7 +494,7 @@
     "timeMonth": 451,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2023-12-20": 194
+      "2023-12-20": 211
     }
   },
   {
@@ -524,9 +524,9 @@
     "slug": "stripe-webhook-url-test-and-live",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "86.65%",
-    "uptimeWeek": "98.09%",
-    "uptimeMonth": "99.56%",
+    "uptimeDay": "85.44%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "99.96%",
     "time": 336,
     "timeDay": 250,
@@ -534,7 +534,7 @@
     "timeMonth": 251,
     "timeYear": 307,
     "dailyMinutesDown": {
-      "2023-12-20": 191
+      "2023-12-20": 209
     }
   }
 ]
