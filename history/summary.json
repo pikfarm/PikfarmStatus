@@ -4,11 +4,11 @@
     "url": "https://www.pikfarm.com",
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "www-pikfarm-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "58.60%",
-    "uptimeWeek": "94.09%",
-    "uptimeMonth": "98.64%",
+    "uptimeDay": "58.45%",
+    "uptimeWeek": "94.06%",
+    "uptimeMonth": "98.63%",
     "uptimeYear": "99.89%",
     "time": 400,
     "timeDay": 246,
@@ -16,7 +16,7 @@
     "timeMonth": 208,
     "timeYear": 375,
     "dailyMinutesDown": {
-      "2023-12-20": 598
+      "2023-12-20": 600
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://pik.farm",
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "www-pik-farm",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "61.52%",
-    "uptimeWeek": "94.50%",
-    "uptimeMonth": "98.74%",
+    "uptimeDay": "60.78%",
+    "uptimeWeek": "94.40%",
+    "uptimeMonth": "98.71%",
     "uptimeYear": "99.88%",
-    "time": 740,
-    "timeDay": 381,
-    "timeWeek": 438,
-    "timeMonth": 487,
-    "timeYear": 700,
+    "time": 739,
+    "timeDay": 379,
+    "timeWeek": 434,
+    "timeMonth": 484,
+    "timeYear": 699,
     "dailyMinutesDown": {
-      "2023-12-20": 552,
+      "2023-12-20": 563,
       "2023-03-16": 28,
       "2023-03-15": 17,
       "2023-03-10": 25
@@ -47,11 +47,11 @@
     "url": "https://news.pik.farm/sign-up",
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "newsletter-url",
-    "status": "up",
+    "status": "down",
     "uptime": "6.65%",
-    "uptimeDay": "47.24%",
-    "uptimeWeek": "6.75%",
-    "uptimeMonth": "2.93%",
+    "uptimeDay": "48.02%",
+    "uptimeWeek": "6.86%",
+    "uptimeMonth": "2.96%",
     "uptimeYear": "0.13%",
     "time": 599,
     "timeDay": 599,
@@ -59,7 +59,7 @@
     "timeMonth": 599,
     "timeYear": 599,
     "dailyMinutesDown": {
-      "2023-12-20": 429,
+      "2023-12-20": 431,
       "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
@@ -431,10 +431,10 @@
     "url": "http://blog.pik.farm",
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "blog-url",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "77.92%",
-    "uptimeWeek": "96.85%",
+    "uptimeDay": "77.83%",
+    "uptimeWeek": "96.83%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "99.46%",
     "time": 1124,
@@ -443,7 +443,7 @@
     "timeMonth": 1533,
     "timeYear": 1151,
     "dailyMinutesDown": {
-      "2023-12-20": 317,
+      "2023-12-20": 318,
       "2023-10-05": 20,
       "2023-09-20": 18,
       "2023-09-19": 22,
@@ -473,7 +473,7 @@
       "2023-05-27": 56,
       "2023-05-26": 330,
       "2023-05-25": 125,
-      "2023-05-24": 100
+      "2023-05-24": 58
     }
   },
   {
@@ -503,9 +503,9 @@
     "slug": "stripe-endpoint-url",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "78.92%",
-    "uptimeWeek": "96.99%",
-    "uptimeMonth": "99.31%",
+    "uptimeDay": "78.02%",
+    "uptimeWeek": "96.86%",
+    "uptimeMonth": "99.28%",
     "uptimeYear": "99.94%",
     "time": 347,
     "timeDay": 184,
@@ -513,7 +513,7 @@
     "timeMonth": 237,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2023-12-20": 303
+      "2023-12-20": 316
     }
   },
   {
@@ -523,17 +523,17 @@
     "slug": "stripe-webhook-url-test-and-live",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "72.91%",
-    "uptimeWeek": "96.13%",
-    "uptimeMonth": "99.11%",
-    "uptimeYear": "99.93%",
+    "uptimeDay": "72.01%",
+    "uptimeWeek": "96.00%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.92%",
     "time": 334,
     "timeDay": 226,
     "timeWeek": 238,
     "timeMonth": 242,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2023-12-20": 390
+      "2023-12-20": 403
     }
   }
 ]
