@@ -1,7 +1,7 @@
 url: $STRIPEAPI
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-23T12:02:40.884Z
+status: up
+code: 200
+responseTime: 164
+lastUpdated: 2023-12-23T12:33:59.210Z
 startTime: 2021-05-31T17:20:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
