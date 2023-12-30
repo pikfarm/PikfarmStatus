@@ -1,7 +1,7 @@
 url: $STRIPEWEBHOOK
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-30T03:44:29.510Z
+status: up
+code: 200
+responseTime: 303
+lastUpdated: 2023-12-30T04:35:32.013Z
 startTime: 2021-05-31T17:20:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
