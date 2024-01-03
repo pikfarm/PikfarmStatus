@@ -1,7 +1,7 @@
 url: $STRIPETESTAPI
-status: up
-code: 200
-responseTime: 301
-lastUpdated: 2024-01-03T11:18:19.721Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-01-03T11:42:56.206Z
 startTime: 2021-05-31T17:20:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
