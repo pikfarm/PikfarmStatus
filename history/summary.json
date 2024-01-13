@@ -4,11 +4,11 @@
     "url": "https://www.pikfarm.com",
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "www-pikfarm-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "62.66%",
-    "uptimeWeek": "60.36%",
-    "uptimeMonth": "90.88%",
+    "uptimeDay": "63.56%",
+    "uptimeWeek": "60.57%",
+    "uptimeMonth": "90.93%",
     "uptimeYear": "99.24%",
     "time": 375,
     "timeDay": 247,
@@ -22,7 +22,7 @@
       "2024-01-10": 612,
       "2024-01-09": 660,
       "2024-01-08": 524,
-      "2024-01-07": 489
+      "2024-01-07": 468
     }
   },
   {
@@ -32,12 +32,12 @@
     "slug": "www-pik-farm",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "39.27%",
+    "uptimeDay": "39.52%",
     "uptimeWeek": "54.57%",
     "uptimeMonth": "89.55%",
     "uptimeYear": "99.13%",
     "time": 633,
-    "timeDay": 271,
+    "timeDay": 281,
     "timeWeek": 368,
     "timeMonth": 529,
     "timeYear": 601,
@@ -114,9 +114,9 @@
     "slug": "stripe-test-endpoint-url",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "67.73%",
-    "uptimeWeek": "64.39%",
-    "uptimeMonth": "91.81%",
+    "uptimeDay": "68.58%",
+    "uptimeWeek": "64.35%",
+    "uptimeMonth": "91.80%",
     "uptimeYear": "99.32%",
     "time": 461,
     "timeDay": 460,
@@ -124,14 +124,14 @@
     "timeMonth": 369,
     "timeYear": 439,
     "dailyMinutesDown": {
-      "2024-01-13": 322,
+      "2024-01-13": 310,
       "2024-01-12": 450,
       "2024-01-11": 585,
       "2024-01-10": 433,
       "2024-01-09": 731,
       "2024-01-08": 506,
       "2024-01-07": 550,
-      "2024-01-06": 15
+      "2024-01-06": 31
     }
   },
   {
@@ -141,17 +141,17 @@
     "slug": "stripe-endpoint-url",
     "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "71.11%",
-    "uptimeWeek": "59.88%",
-    "uptimeMonth": "90.69%",
+    "uptimeDay": "70.18%",
+    "uptimeWeek": "59.71%",
+    "uptimeMonth": "90.65%",
     "uptimeYear": "99.22%",
     "time": 360,
-    "timeDay": 261,
-    "timeWeek": 309,
+    "timeDay": 269,
+    "timeWeek": 310,
     "timeMonth": 367,
     "timeYear": 361,
     "dailyMinutesDown": {
-      "2024-01-13": 252,
+      "2024-01-13": 268,
       "2024-01-12": 696,
       "2024-01-11": 653,
       "2024-01-10": 608,
@@ -168,9 +168,9 @@
     "slug": "stripe-webhook-url-test-and-live",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "51.84%",
-    "uptimeWeek": "59.26%",
-    "uptimeMonth": "90.62%",
+    "uptimeDay": "52.69%",
+    "uptimeWeek": "59.18%",
+    "uptimeMonth": "90.61%",
     "uptimeYear": "99.22%",
     "time": 315,
     "timeDay": 486,
@@ -178,13 +178,13 @@
     "timeMonth": 294,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2024-01-13": 472,
+      "2024-01-13": 460,
       "2024-01-12": 742,
       "2024-01-11": 655,
       "2024-01-10": 754,
       "2024-01-09": 569,
       "2024-01-08": 462,
-      "2024-01-07": 452
+      "2024-01-07": 472
     }
   }
 ]
