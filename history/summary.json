@@ -4,15 +4,15 @@
     "url": "https://www.pikfarm.com",
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "www-pikfarm-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "62.33%",
-    "uptimeWeek": "58.29%",
-    "uptimeMonth": "90.40%",
+    "uptimeDay": "62.64%",
+    "uptimeWeek": "58.47%",
+    "uptimeMonth": "90.44%",
     "uptimeYear": "99.20%",
     "time": 354,
-    "timeDay": 211,
-    "timeWeek": 252,
+    "timeDay": 215,
+    "timeWeek": 253,
     "timeMonth": 326,
     "timeYear": 349,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2024-01-23": 720,
       "2024-01-22": 683,
       "2024-01-21": 669,
-      "2024-01-20": 427
+      "2024-01-20": 409
     }
   },
   {
@@ -32,8 +32,8 @@
     "slug": "www-pik-farm",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "63.12%",
-    "uptimeWeek": "54.44%",
+    "uptimeDay": "63.65%",
+    "uptimeWeek": "54.56%",
     "uptimeMonth": "89.51%",
     "uptimeYear": "99.13%",
     "time": 588,
@@ -57,11 +57,11 @@
     "url": "https://news.pik.farm/sign-up",
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "newsletter-url",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "62.05%",
-    "uptimeWeek": "58.55%",
-    "uptimeMonth": "90.46%",
+    "uptimeDay": "62.88%",
+    "uptimeWeek": "58.98%",
+    "uptimeMonth": "90.56%",
     "uptimeYear": "99.21%",
     "time": 440,
     "timeDay": 477,
@@ -75,8 +75,7 @@
       "2024-01-23": 468,
       "2024-01-22": 641,
       "2024-01-21": 634,
-      "2024-01-20": 763,
-      "2024-01-19": 44
+      "2024-01-20": 763
     }
   },
   {
@@ -139,26 +138,26 @@
     "url": "$STRIPEAPI",
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "stripe-endpoint-url",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "61.66%",
-    "uptimeWeek": "61.13%",
-    "uptimeMonth": "91.05%",
-    "uptimeYear": "99.25%",
+    "uptimeDay": "61.61%",
+    "uptimeWeek": "61.46%",
+    "uptimeMonth": "91.13%",
+    "uptimeYear": "99.26%",
     "time": 357,
     "timeDay": 269,
     "timeWeek": 288,
     "timeMonth": 348,
     "timeYear": 354,
     "dailyMinutesDown": {
-      "2024-01-26": 345,
+      "2024-01-26": 346,
       "2024-01-25": 719,
       "2024-01-24": 601,
       "2024-01-23": 406,
       "2024-01-22": 523,
       "2024-01-21": 695,
       "2024-01-20": 579,
-      "2024-01-19": 53
+      "2024-01-19": 19
     }
   },
   {
