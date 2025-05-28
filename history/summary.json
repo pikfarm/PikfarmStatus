@@ -5,18 +5,19 @@
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "www-pikfarm-com",
     "status": "down",
-    "uptime": "66.66%",
+    "uptime": "66.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 561,
+    "time": 611,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-27": 1062,
+      "2025-05-28": 50,
+      "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
@@ -379,8 +380,7 @@
       "2024-06-01": 1440,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
-      "2024-05-29": 1440,
-      "2024-05-28": 1440
+      "2024-05-29": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "99.73%",
     "uptimeMonth": "93.61%",
     "uptimeYear": "99.12%",
-    "time": 655,
-    "timeDay": 489,
-    "timeWeek": 276,
-    "timeMonth": 352,
-    "timeYear": 644,
+    "time": 654,
+    "timeDay": 342,
+    "timeWeek": 272,
+    "timeMonth": 348,
+    "timeYear": 643,
     "dailyMinutesDown": {
       "2025-05-27": 27,
       "2025-05-15": 70,
@@ -454,11 +454,11 @@
     "uptime": "76.25%",
     "uptimeDay": "94.88%",
     "uptimeWeek": "99.27%",
-    "uptimeMonth": "59.07%",
-    "uptimeYear": "28.54%",
+    "uptimeMonth": "60.05%",
+    "uptimeYear": "28.62%",
     "time": 323,
-    "timeDay": 450,
-    "timeWeek": 339,
+    "timeDay": 469,
+    "timeWeek": 340,
     "timeMonth": 255,
     "timeYear": 283,
     "dailyMinutesDown": {
@@ -727,8 +727,7 @@
       "2024-06-01": 1440,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
-      "2024-05-29": 1440,
-      "2024-05-28": 1440
+      "2024-05-29": 1440
     }
   },
   {
@@ -743,9 +742,9 @@
     "uptimeMonth": "98.67%",
     "uptimeYear": "99.45%",
     "time": 660,
-    "timeDay": 134,
-    "timeWeek": 194,
-    "timeMonth": 496,
+    "timeDay": 205,
+    "timeWeek": 190,
+    "timeMonth": 456,
     "timeYear": 700,
     "dailyMinutesDown": {
       "2025-05-27": 16,
@@ -804,18 +803,19 @@
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "stripe-test-endpoint-url",
     "status": "down",
-    "uptime": "67.53%",
+    "uptime": "67.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 245,
+    "time": 254,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-27": 1062,
+      "2025-05-28": 50,
+      "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
@@ -1178,8 +1178,7 @@
       "2024-06-01": 1440,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
-      "2024-05-29": 1440,
-      "2024-05-28": 1440
+      "2024-05-29": 1440
     }
   },
   {
@@ -1188,16 +1187,16 @@
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "stripe-endpoint-url",
     "status": "up",
-    "uptime": "76.24%",
+    "uptime": "76.25%",
     "uptimeDay": "96.32%",
     "uptimeWeek": "99.47%",
-    "uptimeMonth": "58.74%",
-    "uptimeYear": "28.51%",
-    "time": 273,
-    "timeDay": 589,
-    "timeWeek": 460,
-    "timeMonth": 263,
-    "timeYear": 266,
+    "uptimeMonth": "59.72%",
+    "uptimeYear": "28.59%",
+    "time": 276,
+    "timeDay": 716,
+    "timeWeek": 495,
+    "timeMonth": 271,
+    "timeYear": 268,
     "dailyMinutesDown": {
       "2025-05-27": 53,
       "2025-05-15": 70,
@@ -1464,8 +1463,7 @@
       "2024-06-01": 1440,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
-      "2024-05-29": 1440,
-      "2024-05-28": 1440
+      "2024-05-29": 1440
     }
   },
   {
@@ -1477,13 +1475,13 @@
     "uptime": "76.26%",
     "uptimeDay": "96.57%",
     "uptimeWeek": "99.51%",
-    "uptimeMonth": "59.35%",
-    "uptimeYear": "28.56%",
-    "time": 254,
-    "timeDay": 482,
-    "timeWeek": 244,
-    "timeMonth": 211,
-    "timeYear": 233,
+    "uptimeMonth": "60.32%",
+    "uptimeYear": "28.64%",
+    "time": 253,
+    "timeDay": 392,
+    "timeWeek": 240,
+    "timeMonth": 209,
+    "timeYear": 232,
     "dailyMinutesDown": {
       "2025-05-27": 49,
       "2025-05-15": 126,
@@ -1750,8 +1748,7 @@
       "2024-06-01": 1440,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
-      "2024-05-29": 1440,
-      "2024-05-28": 1440
+      "2024-05-29": 1440
     }
   }
 ]
