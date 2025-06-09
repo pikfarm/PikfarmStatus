@@ -5,7 +5,7 @@
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "www-pikfarm-com",
     "status": "down",
-    "uptime": "66.11%",
+    "uptime": "66.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-08": 1432,
+      "2025-06-09": 54,
+      "2025-06-08": 1440,
       "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
@@ -379,8 +380,7 @@
       "2024-06-13": 1440,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
-      "2024-06-10": 1440,
-      "2024-06-09": 1440
+      "2024-06-10": 1440
     }
   },
   {
@@ -389,18 +389,18 @@
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "www-pik-farm",
     "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "84.91%",
-    "uptimeWeek": "96.12%",
-    "uptimeMonth": "95.27%",
-    "uptimeYear": "99.14%",
+    "uptime": "99.78%",
+    "uptimeDay": "85.75%",
+    "uptimeWeek": "96.24%",
+    "uptimeMonth": "95.44%",
+    "uptimeYear": "99.12%",
     "time": 654,
     "timeDay": 550,
     "timeWeek": 448,
     "timeMonth": 328,
     "timeYear": 618,
     "dailyMinutesDown": {
-      "2025-06-08": 217,
+      "2025-06-08": 205,
       "2025-06-07": 175,
       "2025-05-27": 27,
       "2025-05-15": 70,
@@ -438,7 +438,8 @@
       "2025-02-24": 106,
       "2025-02-21": 77,
       "2025-02-20": 69,
-      "2025-02-19": 48
+      "2025-02-19": 159,
+      "2025-02-18": 1
     }
   },
   {
@@ -448,12 +449,12 @@
     "slug": "newsletter-url",
     "status": "up",
     "uptime": "76.45%",
-    "uptimeDay": "76.26%",
+    "uptimeDay": "76.61%",
     "uptimeWeek": "94.84%",
-    "uptimeMonth": "94.89%",
-    "uptimeYear": "31.80%",
+    "uptimeMonth": "95.03%",
+    "uptimeYear": "31.81%",
     "time": 282,
-    "timeDay": 403,
+    "timeDay": 401,
     "timeWeek": 338,
     "timeMonth": 281,
     "timeYear": 289,
@@ -713,8 +714,7 @@
       "2024-06-13": 1440,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
-      "2024-06-10": 1440,
-      "2024-06-09": 1440
+      "2024-06-10": 1440
     }
   },
   {
@@ -801,7 +801,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-08": 1433,
+      "2025-06-09": 54,
+      "2025-06-08": 1440,
       "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
@@ -1164,8 +1165,7 @@
       "2024-06-13": 1440,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
-      "2024-06-10": 1440,
-      "2024-06-09": 1440
+      "2024-06-10": 1440
     }
   },
   {
@@ -1175,17 +1175,17 @@
     "slug": "stripe-endpoint-url",
     "status": "up",
     "uptime": "76.45%",
-    "uptimeDay": "84.73%",
-    "uptimeWeek": "96.19%",
-    "uptimeMonth": "94.87%",
-    "uptimeYear": "31.80%",
+    "uptimeDay": "85.58%",
+    "uptimeWeek": "96.31%",
+    "uptimeMonth": "95.04%",
+    "uptimeYear": "31.81%",
     "time": 255,
     "timeDay": 253,
     "timeWeek": 316,
     "timeMonth": 275,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2025-06-08": 219,
+      "2025-06-08": 207,
       "2025-06-07": 164,
       "2025-05-27": 53,
       "2025-05-15": 70,
@@ -1440,8 +1440,7 @@
       "2024-06-13": 1440,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
-      "2024-06-10": 1440,
-      "2024-06-09": 1440
+      "2024-06-10": 1440
     }
   },
   {
@@ -1451,17 +1450,17 @@
     "slug": "stripe-webhook-url-test-and-live",
     "status": "up",
     "uptime": "76.45%",
-    "uptimeDay": "74.77%",
-    "uptimeWeek": "95.56%",
-    "uptimeMonth": "95.33%",
-    "uptimeYear": "31.84%",
+    "uptimeDay": "75.95%",
+    "uptimeWeek": "95.68%",
+    "uptimeMonth": "95.50%",
+    "uptimeYear": "31.85%",
     "time": 245,
-    "timeDay": 250,
+    "timeDay": 260,
     "timeWeek": 238,
     "timeMonth": 220,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-06-08": 359,
+      "2025-06-08": 347,
       "2025-06-07": 89,
       "2025-05-27": 49,
       "2025-05-15": 126,
@@ -1716,8 +1715,7 @@
       "2024-06-13": 1440,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
-      "2024-06-10": 1440,
-      "2024-06-09": 1440
+      "2024-06-10": 1440
     }
   }
 ]
