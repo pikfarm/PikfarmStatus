@@ -5,7 +5,7 @@
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "www-pikfarm-com",
     "status": "down",
-    "uptime": "62.37%",
+    "uptime": "62.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-05": 45,
+      "2025-09-06": 44,
+      "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
@@ -379,8 +380,7 @@
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
-      "2024-09-07": 1440,
-      "2024-09-06": 1440
+      "2024-09-07": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "www-pik-farm",
     "status": "down",
-    "uptime": "94.32%",
+    "uptime": "94.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "75.76%",
-    "time": 607,
+    "uptimeYear": "75.48%",
+    "time": 606,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 504,
+    "timeYear": 503,
     "dailyMinutesDown": {
-      "2025-09-05": 45,
+      "2025-09-06": 44,
+      "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
@@ -534,7 +535,7 @@
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "newsletter-url",
     "status": "down",
-    "uptime": "72.30%",
+    "uptime": "72.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -545,7 +546,8 @@
     "timeMonth": 0,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2025-09-05": 45,
+      "2025-09-06": 44,
+      "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
@@ -798,8 +800,7 @@
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
-      "2024-09-07": 1440,
-      "2024-09-06": 1440
+      "2024-09-07": 1440
     }
   },
   {
@@ -808,18 +809,19 @@
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "blog-url",
     "status": "down",
-    "uptime": "94.39%",
+    "uptime": "94.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.08%",
-    "time": 660,
-    "timeDay": 28,
-    "timeWeek": 619,
-    "timeMonth": 370,
+    "uptimeYear": "75.80%",
+    "time": 661,
+    "timeDay": 565,
+    "timeWeek": 230,
+    "timeMonth": 383,
     "timeYear": 653,
     "dailyMinutesDown": {
-      "2025-09-05": 45,
+      "2025-09-06": 44,
+      "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
@@ -962,7 +964,7 @@
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "stripe-test-endpoint-url",
     "status": "down",
-    "uptime": "63.18%",
+    "uptime": "63.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -973,7 +975,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-05": 45,
+      "2025-09-06": 44,
+      "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
@@ -1336,8 +1339,7 @@
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
-      "2024-09-07": 1440,
-      "2024-09-06": 1440
+      "2024-09-07": 1440
     }
   },
   {
@@ -1346,7 +1348,7 @@
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "stripe-endpoint-url",
     "status": "down",
-    "uptime": "72.31%",
+    "uptime": "72.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1357,7 +1359,8 @@
     "timeMonth": 0,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2025-09-05": 45,
+      "2025-09-06": 44,
+      "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
@@ -1610,8 +1613,7 @@
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
-      "2024-09-07": 1440,
-      "2024-09-06": 1440
+      "2024-09-07": 1440
     }
   },
   {
@@ -1620,7 +1622,7 @@
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "stripe-webhook-url-test-and-live",
     "status": "down",
-    "uptime": "72.31%",
+    "uptime": "72.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1631,7 +1633,8 @@
     "timeMonth": 0,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2025-09-05": 45,
+      "2025-09-06": 44,
+      "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
@@ -1884,8 +1887,7 @@
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
-      "2024-09-07": 1440,
-      "2024-09-06": 1440
+      "2024-09-07": 1440
     }
   }
 ]
