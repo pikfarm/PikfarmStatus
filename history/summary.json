@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-11": 51,
+      "2025-11-11": 127,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
@@ -388,18 +388,19 @@
     "url": "https://pik.farm",
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "www-pik-farm",
-    "status": "up",
+    "status": "down",
     "uptime": "92.39%",
-    "uptimeDay": "97.16%",
+    "uptimeDay": "97.15%",
     "uptimeWeek": "91.83%",
-    "uptimeMonth": "86.43%",
-    "uptimeYear": "66.13%",
-    "time": 659,
+    "uptimeMonth": "86.60%",
+    "uptimeYear": "66.14%",
+    "time": 658,
     "timeDay": 737,
     "timeWeek": 2044,
     "timeMonth": 1385,
     "timeYear": 643,
     "dailyMinutesDown": {
+      "2025-11-11": 0,
       "2025-11-10": 41,
       "2025-11-09": 24,
       "2025-11-07": 38,
@@ -562,7 +563,7 @@
       "2025-04-27": 53,
       "2025-04-26": 125,
       "2025-04-24": 47,
-      "2025-04-21": 71
+      "2025-04-21": 36
     }
   },
   {
@@ -582,7 +583,7 @@
     "timeMonth": 0,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2025-11-11": 51,
+      "2025-11-11": 128,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
@@ -884,14 +885,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "57.72%",
+    "uptimeYear": "57.71%",
     "time": 684,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 670,
     "dailyMinutesDown": {
-      "2025-11-11": 51,
+      "2025-11-11": 128,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
@@ -1112,7 +1113,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-11": 51,
+      "2025-11-11": 128,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
@@ -1496,7 +1497,7 @@
     "timeMonth": 0,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2025-11-11": 51,
+      "2025-11-11": 128,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
@@ -1805,7 +1806,7 @@
     "timeMonth": 0,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2025-11-11": 51,
+      "2025-11-11": 128,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
