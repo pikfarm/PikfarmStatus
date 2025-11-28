@@ -5,7 +5,7 @@
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "www-pikfarm-com",
     "status": "down",
-    "uptime": "59.19%",
+    "uptime": "59.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-27": 1229,
+      "2025-11-28": 48,
+      "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
@@ -379,8 +380,7 @@
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
-      "2024-11-29": 1440,
-      "2024-11-28": 1440
+      "2024-11-29": 1440
     }
   },
   {
@@ -388,19 +388,19 @@
     "url": "https://pik.farm",
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "www-pik-farm",
-    "status": "down",
+    "status": "up",
     "uptime": "92.52%",
-    "uptimeDay": "96.75%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "93.07%",
+    "uptimeDay": "95.81%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "93.04%",
     "uptimeYear": "66.33%",
-    "time": 690,
-    "timeDay": 502,
-    "timeWeek": 1093,
-    "timeMonth": 1265,
-    "timeYear": 708,
+    "time": 689,
+    "timeDay": 471,
+    "timeWeek": 1146,
+    "timeMonth": 1262,
+    "timeYear": 709,
     "dailyMinutesDown": {
-      "2025-11-27": 47,
+      "2025-11-27": 60,
       "2025-11-20": 24,
       "2025-11-18": 153,
       "2025-11-16": 171,
@@ -562,7 +562,7 @@
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "newsletter-url",
     "status": "down",
-    "uptime": "68.61%",
+    "uptime": "68.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -573,7 +573,8 @@
     "timeMonth": 0,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2025-11-27": 1230,
+      "2025-11-28": 48,
+      "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
@@ -861,8 +862,7 @@
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
-      "2024-11-29": 1440,
-      "2024-11-28": 1440
+      "2024-11-29": 1440
     }
   },
   {
@@ -871,18 +871,19 @@
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "blog-url",
     "status": "down",
-    "uptime": "89.57%",
+    "uptime": "89.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "53.11%",
+    "uptimeYear": "53.06%",
     "time": 691,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 683,
+    "timeYear": 684,
     "dailyMinutesDown": {
-      "2025-11-27": 1230,
+      "2025-11-28": 48,
+      "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
@@ -1119,7 +1120,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-27": 1230,
+      "2025-11-28": 48,
+      "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
@@ -1482,8 +1484,7 @@
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
-      "2024-11-29": 1440,
-      "2024-11-28": 1440
+      "2024-11-29": 1440
     }
   },
   {
@@ -1503,7 +1504,8 @@
     "timeMonth": 0,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2025-11-27": 1230,
+      "2025-11-28": 48,
+      "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
@@ -1791,8 +1793,7 @@
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
-      "2024-11-29": 1440,
-      "2024-11-28": 1440
+      "2024-11-29": 1440
     }
   },
   {
@@ -1812,7 +1813,8 @@
     "timeMonth": 0,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2025-11-27": 1230,
+      "2025-11-28": 48,
+      "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
@@ -2100,8 +2102,7 @@
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
-      "2024-11-29": 1440,
-      "2024-11-28": 1440
+      "2024-11-29": 1440
     }
   }
 ]
