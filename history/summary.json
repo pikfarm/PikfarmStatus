@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-10": 1338,
+      "2026-01-11": 60,
+      "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
@@ -379,8 +380,7 @@
       "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
-      "2025-01-12": 1440,
-      "2025-01-11": 1440
+      "2025-01-12": 1440
     }
   },
   {
@@ -390,14 +390,14 @@
     "slug": "www-pik-farm",
     "status": "up",
     "uptime": "98.61%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "30.42%",
+    "uptimeDay": "11.28%",
+    "uptimeWeek": "1.61%",
+    "uptimeMonth": "30.48%",
     "uptimeYear": "93.59%",
-    "time": 755,
-    "timeDay": 572,
-    "timeWeek": 698,
-    "timeMonth": 1267,
+    "time": 754,
+    "timeDay": 588,
+    "timeWeek": 663,
+    "timeMonth": 1258,
     "timeYear": 792,
     "dailyMinutesDown": {
       "2026-01-10": 1337,
@@ -459,7 +459,7 @@
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "newsletter-url",
     "status": "down",
-    "uptime": "66.82%",
+    "uptime": "66.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -470,7 +470,8 @@
     "timeMonth": 0,
     "timeYear": 322,
     "dailyMinutesDown": {
-      "2026-01-10": 1338,
+      "2026-01-11": 60,
+      "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
@@ -770,8 +771,7 @@
       "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
-      "2025-01-12": 1440,
-      "2025-01-11": 1440
+      "2025-01-12": 1440
     }
   },
   {
@@ -780,18 +780,19 @@
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "blog-url",
     "status": "down",
-    "uptime": "87.23%",
+    "uptime": "87.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "41.04%",
-    "time": 659,
+    "uptimeYear": "41.01%",
+    "time": 660,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 653,
+    "timeYear": 644,
     "dailyMinutesDown": {
-      "2026-01-10": 1338,
+      "2026-01-11": 60,
+      "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
@@ -1072,7 +1073,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-10": 1338,
+      "2026-01-11": 60,
+      "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
@@ -1435,8 +1437,7 @@
       "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
-      "2025-01-12": 1440,
-      "2025-01-11": 1440
+      "2025-01-12": 1440
     }
   },
   {
@@ -1445,7 +1446,7 @@
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "stripe-endpoint-url",
     "status": "down",
-    "uptime": "66.82%",
+    "uptime": "66.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1456,7 +1457,8 @@
     "timeMonth": 0,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2026-01-10": 1338,
+      "2026-01-11": 60,
+      "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
@@ -1756,8 +1758,7 @@
       "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
-      "2025-01-12": 1440,
-      "2025-01-11": 1440
+      "2025-01-12": 1440
     }
   },
   {
@@ -1766,7 +1767,7 @@
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "stripe-webhook-url-test-and-live",
     "status": "down",
-    "uptime": "66.82%",
+    "uptime": "66.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1777,7 +1778,8 @@
     "timeMonth": 0,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2026-01-10": 1338,
+      "2026-01-11": 60,
+      "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
@@ -2077,8 +2079,7 @@
       "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
-      "2025-01-12": 1440,
-      "2025-01-11": 1440
+      "2025-01-12": 1440
     }
   }
 ]
