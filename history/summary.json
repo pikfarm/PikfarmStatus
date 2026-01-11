@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-11": 886,
+      "2026-01-11": 928,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -388,16 +388,16 @@
     "url": "https://pik.farm",
     "icon": "https://raw.githubusercontent.com/cybertheory/PikfarmStatus/master/assets/APP%20Icon%20v2.0.svg",
     "slug": "www-pik-farm",
-    "status": "up",
+    "status": "down",
     "uptime": "98.61%",
-    "uptimeDay": "62.41%",
-    "uptimeWeek": "8.92%",
-    "uptimeMonth": "31.03%",
-    "uptimeYear": "93.59%",
-    "time": 753,
-    "timeDay": 616,
-    "timeWeek": 645,
-    "timeMonth": 1219,
+    "uptimeDay": "65.32%",
+    "uptimeWeek": "9.33%",
+    "uptimeMonth": "31.12%",
+    "uptimeYear": "93.60%",
+    "time": 752,
+    "timeDay": 592,
+    "timeWeek": 628,
+    "timeMonth": 1215,
     "timeYear": 790,
     "dailyMinutesDown": {
       "2026-01-11": 89,
@@ -448,8 +448,7 @@
       "2025-11-07": 38,
       "2025-11-06": 378,
       "2025-11-05": 342,
-      "2025-11-03": 106,
-      "2025-11-01": 25
+      "2025-11-03": 106
     }
   },
   {
@@ -469,7 +468,7 @@
     "timeMonth": 0,
     "timeYear": 322,
     "dailyMinutesDown": {
-      "2026-01-11": 886,
+      "2026-01-11": 928,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -783,14 +782,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "40.85%",
+    "uptimeYear": "40.84%",
     "time": 660,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 644,
     "dailyMinutesDown": {
-      "2026-01-11": 886,
+      "2026-01-11": 928,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -1072,7 +1071,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-11": 886,
+      "2026-01-11": 928,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -1456,7 +1455,7 @@
     "timeMonth": 0,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2026-01-11": 886,
+      "2026-01-11": 928,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -1777,7 +1776,7 @@
     "timeMonth": 0,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2026-01-11": 886,
+      "2026-01-11": 928,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
