@@ -1,7 +1,7 @@
 url: https://pik.farm
-status: up
-code: 200
-responseTime: 398
-lastUpdated: 2026-01-11T10:48:24.206Z
+status: down
+code: 503
+responseTime: 238
+lastUpdated: 2026-01-11T12:48:09.368Z
 startTime: 2021-05-30T22:39:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
